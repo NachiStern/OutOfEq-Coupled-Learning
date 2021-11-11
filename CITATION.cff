@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Stern
+    given-names: Menachem
+title: "Out of Equilibrium Coupled Learning"
+version: 1.0
+doi: 10.5281/zenodo.5675821	
+date-released: 2021-11-11
